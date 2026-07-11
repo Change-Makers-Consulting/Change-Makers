@@ -1,0 +1,37 @@
+GUÍA VISUAL — CHANGE MAKERS
+
+Concepto de marca:
+Cambio positivo, innovación, cercanía, orden y resultados sostenibles.
+
+Paleta:
+- Turquesa principal: #08B6C9
+- Turquesa oscuro: #05899A
+- Naranja: #F47B2D
+- Verde lima: #C7DC20
+- Gris oscuro: #263238
+- Gris suave: #F5F8F9
+- Blanco: #FFFFFF
+
+Tipografías:
+- Títulos: Montserrat, peso 700/800
+- Texto: Manrope, peso 400/600/700
+- Alternativa sin conexión: Arial
+
+Tono de comunicación:
+Profesional, cercano, claro, concreto y orientado a resultados.
+
+Estructura web:
+1. Inicio
+2. Nosotros
+3. Servicios
+4. Método
+5. Misión y visión
+6. Recursos gratuitos
+7. Contacto
+
+Próxima fase:
+- Confirmar datos de contacto y redes.
+- Agregar fotografías o ilustraciones corporativas.
+- Crear páginas individuales de servicios.
+- Incorporar recursos descargables.
+- Publicar en una plataforma gratuita.

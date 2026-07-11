@@ -1,0 +1,30 @@
+CHANGE MAKERS CORPORATE — VERSIÓN OFICIAL
+
+QUÉ HACER CON LA V4
+No la borres antes de confirmar la nueva versión. GitHub conserva el historial de todos los cambios, por lo que siempre puedes volver a una versión anterior.
+
+CÓMO REEMPLAZAR LA V4
+1. Descarga y descomprime este ZIP.
+2. En GitHub entra al repositorio Change-Makers.
+3. Add file > Upload files.
+4. Arrastra TODOS los archivos de esta carpeta.
+5. Los archivos nuevos reemplazarán los HTML, CSS, JS e imágenes anteriores.
+6. Pulsa Commit changes.
+7. Espera 30–60 segundos y actualiza la web con Ctrl + F5.
+
+IMPORTANTE
+Esta versión NO utiliza carpeta assets. Todos los archivos e imágenes deben quedar en la raíz del repositorio:
+- index.html
+- nosotros.html
+- soluciones.html
+- academia.html
+- equipo.html
+- contacto.html
+- styles.css
+- script.js
+- logo.png
+- hero.jpg
+- gleidys-leal.jpg
+- guillermo-fernandez.jpg
+
+Vercel actualizará automáticamente el sitio actual y mantendrá la misma dirección pública.

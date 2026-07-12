@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://change-makers-one.vercel.app/sitemap.xml
